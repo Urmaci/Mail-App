@@ -1,24 +1,9 @@
 # mail-app
 
-## Project setup
-```
-npm install
-```
+npm run serve den sonra 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+terminale = php -S localhost:8000 sendMail.php
 
-### Compiles and minifies for production
-```
-npm run build
-```
+formu doldurup gönderince object geliyor abi consola
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+axiosun sitesine vs baktım vermis oldugu örnekler gibi yaptım ama gönderemedim data bilgilerini
