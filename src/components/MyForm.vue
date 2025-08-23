@@ -59,8 +59,8 @@ export default {
         data: {
           name: this.formData.name,
           lastName: this.formData.lastName,
-          email: this.formData.namemaile,
-          message: this.formData.namemaile,
+          email: this.formData.email,
+          message: this.formData.message,
         },
       })
         .then((success) => console.log(success))
